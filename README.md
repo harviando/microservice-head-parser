@@ -1,9 +1,9 @@
 # Request Header Parser Microservice
 
-Microservice that provides client's header informations.
+Microservice that provides client's header information.
 
 ## Live API Endpoints Address
-`[https://](https://boilerplate-project-headerparser.harviando.repl.co/api/whoami)`
+`https://boilerplate-project-headerparser.harviando.repl.co/api/whoami`
 <p><sub><i>*If the server was not up the first time, please retry in 30 seconds.</i></sub></p>
 
 ## API Endpoints Functions
